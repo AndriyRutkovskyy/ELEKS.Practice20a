@@ -8,7 +8,7 @@ import json
 app = Flask(__name__)
 
 # Path to model.
-model_dir_path = "/root/PycharmProjects/pract20a/data/iris_model/model"
+model_dir_path = "/root/PycharmProjects/pract20a/model"
 
 
 # Processing data with model. Get model path, data(json). Return results list.
